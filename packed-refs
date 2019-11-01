@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled 
+446ab1b5584f39c50fdcc2820b5be8aa37b2098d refs/heads/CT-665
+5fcc89a5fd66dab695cbdaf043590135ad5269c4 refs/heads/add-dist-file
+c2fe7d08374f963b7aa0a951fab99ce78a628820 refs/heads/add-seed-encoding
+8f6ecb1e9a093ac5eb57e3a157683efadcde6721 refs/heads/dpc-patch-1
+f2df376878d3ce3fd00c704b821a93bad004b9b8 refs/heads/evan/goal2-501
+1ccb6d9c67f99a541e9694ed8d9a9782e6387573 refs/heads/initial-paredown
+0668c1412466beff2591a94c10c8bad06e21d872 refs/heads/master
+28df2b1544a1704c88e87e23afdb9fd0927ff890 refs/heads/modify-index
+1ccb6d9c67f99a541e9694ed8d9a9782e6387573 refs/pull/1/head
+c2fe7d08374f963b7aa0a951fab99ce78a628820 refs/pull/2/head
+28df2b1544a1704c88e87e23afdb9fd0927ff890 refs/pull/3/head
+5fcc89a5fd66dab695cbdaf043590135ad5269c4 refs/pull/4/head
+8f6ecb1e9a093ac5eb57e3a157683efadcde6721 refs/pull/5/head
+446ab1b5584f39c50fdcc2820b5be8aa37b2098d refs/pull/6/head
